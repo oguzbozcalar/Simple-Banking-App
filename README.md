@@ -18,9 +18,4 @@ This is a simple banking application built with Spring Boot. It allows users to 
 - Money transfer between accounts
 - Basic error handling
 
-## 🛠️ Getting Started
 
-### 1. Create the MySQL database:
-
-```sql
-CREATE DATABASE banka;
